@@ -1,5 +1,7 @@
 // Code your solution in this file.
-const drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'Bobby']
+let drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'Bobby'];
+let lowerCaseDrivers;
+
 
 lowerCaseDrivers = drivers.map(function(driverName){
     return driverName.toLowerCase();
