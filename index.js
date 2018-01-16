@@ -1,5 +1,5 @@
 function lowerCaseDrivers (drivers){
-    return drivers.map(function(lower)) {
+    return drivers.map(function(lower) {
       return lower.lowerCase()
   })
 )
