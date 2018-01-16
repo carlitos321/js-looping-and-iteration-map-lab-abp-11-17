@@ -4,8 +4,9 @@ const drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'Bobby']
 function lowerCaseDrivers(driver) {
   let lowercased = drivers.map(function(driverName){
     drivers.toLowerCase
+    return lowercased
   })
-  return lowercased
+
 }
   console.log(lowerCased)
 
