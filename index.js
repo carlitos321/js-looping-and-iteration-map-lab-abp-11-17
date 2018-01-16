@@ -3,8 +3,8 @@ let drivers = ['Bobby', 'Sammy', 'Sally', 'Annette', 'Sarah', 'Bobby'];
 let lowerCaseDrivers;
 
 
-lowerCaseDrivers = drivers.map(function(driverName){
-    return driverName.toLowerCase();
+lowerCaseDrivers = drivers.map(function(driver){
+    return driver.toLowerCase();
   })
 
 
