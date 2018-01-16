@@ -5,6 +5,7 @@ let lowerCaseDrivers;
 
 lowerCaseDrivers = drivers.map(function(driver){
     return driver.toLowerCase();
+    console.log(driver)
   })
 
 
