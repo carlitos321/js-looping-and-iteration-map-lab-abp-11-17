@@ -5,7 +5,6 @@ function lowerCaseDrivers(driver) {
   return lowercased = drivers.map(function(driverName){
     driverName.toLowerCase();
   })
-      return lowercased
 }
 
 
