@@ -6,7 +6,7 @@ function lowerCaseDrivers(driver) {
     driverName.toLowerCase();
   })
       return lowercased
-        console.log(lowerCased)
+        console.log(lowercased)
 }
 
 
