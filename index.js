@@ -6,8 +6,9 @@ function lowerCaseDrivers(driver) {
     driverName.toLowerCase();
   })
       return lowercased
+        console.log(lowerCased)
 }
-  console.log(lowerCased)
+
 
 //function nameToAttributes
 
